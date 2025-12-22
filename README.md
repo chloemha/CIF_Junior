@@ -52,6 +52,11 @@ graph TD
 
 You can also find my code of my number guessing game on my CIF repository under "unit 5". 
 
+Project 3
+---
+During classes six and seven, our goal was to create a turtle firework drawing for our project. We could use different colours to make the fireworks, the backrgound, and the other little details more vibrant and prettier. Instead of the usual patterns normal fireworks make, we were encouraged to create our own unique and creative patterns, using the codes we were taught. 
+
+You can find the code for my firework on my CIF repository under "unit 7".
 
 Other
 ---
