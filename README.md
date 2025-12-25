@@ -58,6 +58,7 @@ During classes six and seven, our goal was to create a turtle firework drawing f
 
 Here is the code of my firework: 
 
+```python
 #importing turtle function
 import turtle
 
@@ -142,7 +143,9 @@ print("done")
 
 turtle.done()
 
-You can find the code for my firework on my CIF repository under "unit 7".
+```
+
+You can also find the code for my firework on my CIF repository under "unit 7".
 
 Other
 ---
