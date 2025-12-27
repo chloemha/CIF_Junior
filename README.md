@@ -36,7 +36,7 @@ You can also find my code of my number guessing game on my CIF repository under 
 
 Project 2
 ---
-During classes three and four, we learned how to make a text based adventure game (TBAG). There would be questions asked to the player, and if they answered correctly, they would get points! Many different variations of these games were taught, and I created a Harry Potter themed one. The player would be sorted into their house, and then participate in a class, and be tested on the material afterwards. 
+During classes four and five, we learned how to make a text based adventure game (TBAG). There would be questions asked to the player, and if they answered correctly, they would get points! Many different variations of these games were taught, and I created a Harry Potter themed one. The player would be sorted into their house, and then participate in a class, and be tested on the material afterwards. 
 
 Here is the flowchart of my game: 
 
