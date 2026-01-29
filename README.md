@@ -62,6 +62,16 @@ Here is the firework I created:
 
 You can also find the picture and the code of my firework on my CIF repository under "unit 7".
 
+Project 4
+---
+In classes eight to tweleve, we were introduced to PyGame, another form of the creation of fun games to play. It involves different functions that allows the user to control their object(s), collisions, texts, and more. There is a wide range of features that can be put in a Pygame, which gives the user the ability to actively participate in the game, ensuring maximum amusement. I created a PyGame that includes an airplane, a sky, and raindrops. The goal of the user is to fly their plane all the way to the end, without colliding with the raindrops. If they do, they automatically lose. 
+
+Here is a picture of what the game looks like: 
+
+![raindrops](unit%2012/raindrops.png)
+
+The actual game and code can be found on my CIF repository under "unit 12". 
+
 Other
 ---
 more to come soon!
